@@ -25,3 +25,6 @@ def main():
     return finalcharged
 
 main()
+
+# Comments: Code wasn't working with word options (i.e. Green, Orange). No matter what I did it would not work so
+# I resorted to using numbers.
