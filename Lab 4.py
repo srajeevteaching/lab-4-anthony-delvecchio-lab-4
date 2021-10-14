@@ -20,7 +20,7 @@ def main():
     elif package == 2 and dataused > 4:
         finalcharged = 69.99 + (9.99 * (dataused - 4))
     elif package == 3 and dataused >= 0:
-        finalcharged = 9.99
+        finalcharged = 99.99
     print("Your amount charged for the month is $" + str(finalcharged))
     return finalcharged
 
